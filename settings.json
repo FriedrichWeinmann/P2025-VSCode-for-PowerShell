@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "files.defaultLanguage": "powershell",
+    "files.encoding": "utf8bom",
+    "powershell.codeFormatting.autoCorrectAliases": true,
+    "editor.parameterHints.enabled": false,
+    "powershell.integratedConsole.focusConsoleOnExecute": false,
+    "powershell.codeFormatting.useCorrectCasing": true,
+    "editor.detectIndentation": false,
+    "[powershell]": {
+        "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?"
+    },
+    "editor.formatOnSave": true,
+    "files.trimTrailingWhitespace": true
+}
